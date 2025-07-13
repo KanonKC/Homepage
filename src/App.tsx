@@ -4,7 +4,6 @@ function App() {
 
   const graderUrl = "https://grader.kanonkc.com/"
   const githubUrl = 'https://github.com/kanonkc'
-  const resumeUrl = 'https://github.com/KanonKC/KanonKC/blob/main/Kanon_Cheewathasana_Resume.pdf'
 
   return (
     <div className="app">
